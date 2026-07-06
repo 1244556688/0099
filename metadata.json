@@ -1,0 +1,6 @@
+{
+  "name": "Glass Launcher",
+  "description": "A modern Custom Android Launcher featuring premium Glassmorphism design aesthetics, macOS-style Dock, dynamic widgets, and slide-out Control Center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
